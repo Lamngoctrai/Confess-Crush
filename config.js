@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Hương hỏ!',
     introDesc: `Chiếc web này cho XH ngày 8/3 đó :3`,
     btnIntro: '^^HiHi^^',
-    title: 'Ngoc Trai dep trai dung hong XH 🥰',
+    title: 'Ngoc Trai dep trai dung hong XH',
     desc: 'Quá đúng còn gì nữa =)))) ',
     btnYes: 'Đúng òi XH còn xĩu',
     btnNo: 'Khum',
