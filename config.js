@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho NT',
     reply: 'Okiii aiu',
     mess: 'Ơ thì mượn chiếc web này chúc XH 8/3 dui dẻ nhaaa',
-    messDesc: 'Hong có  hoa nha vì không ai lại tặng hoa cho hoa cả à mà mau hết bệnh nữa nha .',
+    messDesc: 'Hong có  hoa vì không ai lại tặng hoa cho hoa cả à mà mau hết bệnh nữa nha .',
     btnAccept: 'Vậy ó hỏ',
  
 }
